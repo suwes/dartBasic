@@ -1,0 +1,3 @@
+mixin Terbang{
+  void terbang(){}
+}

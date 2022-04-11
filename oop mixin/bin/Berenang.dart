@@ -1,0 +1,3 @@
+mixin Berenang{
+  void berenang(){}
+}

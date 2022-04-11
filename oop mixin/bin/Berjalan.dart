@@ -1,0 +1,3 @@
+mixin Berjalan{
+  void berjalan(){}
+}
